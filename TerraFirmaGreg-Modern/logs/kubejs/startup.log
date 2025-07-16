@@ -1,0 +1,96 @@
+[22:49:18] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[22:49:18] [INIT] Loaded plugins:
+[22:49:18] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:49:18] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[22:49:18] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[22:49:18] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
+[22:49:18] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[22:49:18] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[22:49:18] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:49:18] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[22:49:18] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[22:49:18] [INIT] - electrolyte.greate.compat.kubejs.KubeJSGreatePlugin
+[22:49:18] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[22:49:18] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[22:49:18] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[22:49:18] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[22:49:18] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
+[22:49:18] [INIT] - com.notenoughmail.kubejs_tfc.addons.afc.AFCPlugin
+[22:49:18] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[22:49:19] [INIT] KubeJS TFC configuration:
+[22:49:19] [INIT] - Debug mode enabled: false
+[22:49:19] [INIT] - Self tests console insertion enabled: true
+[22:49:19] [INFO] Loaded script startup_scripts:advancedperipherals/constants.js in 0.042 s
+[22:49:19] [INFO] Loaded script startup_scripts:ae2/constants.js in 0.003 s
+[22:49:19] [INFO] Loaded script startup_scripts:ae2/materials.js in 0.006 s
+[22:49:19] [INFO] Loaded script startup_scripts:ae2/tag_prefixes.js in 0.001 s
+[22:49:19] [INFO] Loaded script startup_scripts:afc/constants.js in 0.004 s
+[22:49:19] [INFO] Loaded script startup_scripts:alekiroofs/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:alekiships/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:asticor_carts/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:beneath/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:beneath/modifications.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:chisel_and_bits/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:computer_craft/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:constructionwand/modifications.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:create/constants.js in 0.003 s
+[22:49:19] [INFO] Loaded script startup_scripts:create/modifications.js in 0.001 s
+[22:49:19] [INFO] Loaded script startup_scripts:createdeco/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:create_additions/constants.js in 0.001 s
+[22:49:19] [INFO] Loaded script startup_scripts:create_connected/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:domum_ornamentum/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:extended_ae2/constants.js in 0.001 s
+[22:49:19] [INFO] Loaded script startup_scripts:firmaciv/blocks.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:firmaciv/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:firmalife/constants.js in 0.001 s
+[22:49:19] [INFO] Loaded script startup_scripts:framedblocks/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:ftb_quests/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:grapplemod/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:greate/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:gtceu/blocks.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:gtceu/constants.js in 0.002 s
+[22:49:19] [INFO] Loaded script startup_scripts:gtceu/items.js in 0.001 s
+[22:49:19] [INFO] Loaded script startup_scripts:gtceu/machines.js in 0.008 s
+[22:49:19] [INFO] Loaded script startup_scripts:gtceu/materials.js in 0.011 s
+[22:49:19] [INFO] Loaded script startup_scripts:gtceu/recipe_types.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:gtceu/tag_prefixes.js in 0.002 s
+[22:49:19] [INFO] Loaded script startup_scripts:horornot/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:main_startup_script.js in 0.008 s
+[22:49:19] [INFO] Loaded script startup_scripts:mega_cells/constants.js in 0.001 s
+[22:49:19] [INFO] Loaded script startup_scripts:minecraft/constants.js in 0.004 s
+[22:49:19] [INFO] Loaded script startup_scripts:minecraft/modifications.js in 0.001 s
+[22:49:19] [INFO] Loaded script startup_scripts:more_red/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:railways/constants.js in 0.001 s
+[22:49:19] [INFO] Loaded script startup_scripts:rnr/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:sophisticated_backpacks/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:tfc/constants.js in 0.011 s
+[22:49:19] [INFO] Loaded script startup_scripts:tfc/icon_sets.js in 0.001 s
+[22:49:19] [INFO] Loaded script startup_scripts:tfc/materials.js in 0.003 s
+[22:49:19] [INFO] tfc/register_climates.js#1: Loaded Java class 'net.dries007.tfc.util.calendar.ICalendar'
+[22:49:19] [INFO] Loaded script startup_scripts:tfc/register_climates.js in 0.006 s
+[22:49:19] [INFO] Loaded script startup_scripts:tfc/tag_prefixes.js in 0.001 s
+[22:49:19] [INFO] Loaded script startup_scripts:tfg/blocks.js in 0.004 s
+[22:49:19] [INFO] Loaded script startup_scripts:tfg/constants.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:tfg/fluids.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:tfg/items.js in 0.003 s
+[22:49:19] [INFO] Loaded script startup_scripts:tfg/materials.js in 0.0 s
+[22:49:19] [INFO] Loaded script startup_scripts:vintage_improvements/constants.js in 0.001 s
+[22:49:19] [INFO] Loaded 54/54 KubeJS startup scripts in 0.951 s with 0 errors and 0 warnings
+[22:49:19] [INFO] tfg/items.js#13: Loaded Java class 'net.minecraft.world.item.DyeColor'
+[22:49:19] [INFO] tfg/blocks.js#85: Loaded Java class 'net.minecraft.world.level.block.Blocks'
+[22:49:19] [INFO] tfg/blocks.js#86: Loaded Java class 'net.minecraft.world.level.block.state.BlockBehaviour$Properties'
+[22:49:19] [INFO] tfg/blocks.js#175: Loaded Java class 'net.minecraft.world.level.block.NetherSproutsBlock'
+[22:49:20] [INFO] gtceu/materials.js#8: Loaded Java class 'su.terrafirmagreg.core.compat.gtceu.properties.TFCProperty'
+[22:49:20] [INFO] gtceu/materials.js#9: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.OreProperty'
+[22:49:20] [INFO] gtceu/materials.js#10: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.ItemPipeProperties'
+[22:49:20] [INFO] gtceu/materials.js#11: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.FluidPipeProperties'
+[22:49:20] [INFO] gtceu/materials.js#12: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.HazardProperty'
+[22:49:20] [INFO] gtceu/materials.js#14: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.info.MaterialFlags'
+[22:49:20] [INFO] gtceu/materials.js#16: Loaded Java class 'com.gregtechceu.gtceu.api.fluids.store.FluidStorageKeys'
+[22:49:20] [INFO] ae2/tag_prefixes.js#4: Loaded Java class 'appeng.core.definitions.AEBlocks'
+[22:49:20] [INFO] ae2/tag_prefixes.js#5: Loaded Java class 'appeng.core.definitions.AEItems'
+[22:49:20] [INFO] gtceu/tag_prefixes.js#5: Loaded Java class 'net.minecraft.tags.TagKey'
+[22:49:20] [INFO] gtceu/tag_prefixes.js#6: Loaded Java class 'net.minecraftforge.registries.ForgeRegistries'
+[22:49:20] [INFO] gtceu/tag_prefixes.js#7: Loaded Java class 'net.minecraft.resources.ResourceLocation'
+[22:49:21] [INFO] gtceu/machines.js#12: Loaded Java class 'com.gregtechceu.gtceu.common.machine.multiblock.steam.SteamParallelMultiblockMachine'
+[22:49:21] [INFO] gtceu/machines.js#13: Loaded Java class 'dev.latvian.mods.kubejs.util.Tags'

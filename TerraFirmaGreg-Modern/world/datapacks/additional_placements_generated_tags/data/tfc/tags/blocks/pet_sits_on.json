@@ -1,0 +1,69 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "additionalplacements:minecraft.white_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.orange_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.magenta_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.light_blue_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.yellow_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.lime_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.pink_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.gray_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.light_gray_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.cyan_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.purple_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.blue_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.brown_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.green_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.red_carpet",
+      "required": false
+    },
+    {
+      "id": "additionalplacements:minecraft.black_carpet",
+      "required": false
+    }
+  ]
+}
